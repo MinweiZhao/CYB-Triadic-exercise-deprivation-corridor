@@ -35,10 +35,3 @@
 上述三个文件展示了从数据预处理-数据集构建-模型构建-结果分析 的所有代码。
 代码文件与结果均正常展示，具体数据集可以参考代码中注释和文件路径查看。
 
-## 源数据说明
-由于源数据量较大
-可以访问 https://hkustgz-my.sharepoint.com/:f:/g/personal/mzhao886_connect_hkust-gz_edu_cn/Et3dd6ewqKNLhEctqgAVtJYBU93JkYYfx_IhuBPRFRSk6Q?e=vFkkxy
-查看所有原始数据。
-
-如有任何问题请联系 作者Minwei Zhao
-m.zhao@connect.hkust-gz.edu.cn 获取更多信息
